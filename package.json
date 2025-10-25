@@ -1,0 +1,25 @@
+{
+	"name": "hollyland-solidcom",
+	"version": "1.0.0",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bitfocus/companion-module-hollyland-solidcom.git"
+	},
+	"license": "MIT",
+	"dependencies": {
+		"@companion-module/base": "~1.12.0",
+		"eslint": "^9.38.0",
+		"got": "^14.4.7",
+		"hpagent": "^1.2.0",
+		"prettier": "^3.6.2"
+	},
+	"devDependencies": {
+		"@companion-module/tools": "^2.3.0"
+	},
+	"packageManager": "yarn@4.9.1"
+}
