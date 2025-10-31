@@ -13,7 +13,7 @@ export const configFields = [
 		type: 'textinput',
 		id: 'ipAddress',
 		label: 'Device IP Address',
-		width: 12,
+		width: 6,
 		default: '192.168.218.10',
 		regex: Regex.IP,
 	},
@@ -21,7 +21,7 @@ export const configFields = [
 		type: 'textinput',
 		id: 'username',
 		label: 'Device Username',
-		width: 12,
+		width: 6,
 		default: 'admin',
 	},
 	{

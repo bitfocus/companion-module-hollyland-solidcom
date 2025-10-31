@@ -3,7 +3,7 @@
 	"name": "Hollyland Solidcom",
 	"shortname": "Solidcom",
 	"description": "Hollyland Solidcom",
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"license": "MIT",
 	"repository": "git+https://github.com/bitfocus/companion-module-hollyland-solidcom.git",
 	"bugs": "https://github.com/bitfocus/companion-module-hollyland-solidcom/issues",
